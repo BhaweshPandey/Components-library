@@ -1,0 +1,14 @@
+.bigNumber{
+    font-size: 30px;
+}
+
+.circletext{
+    font-family: "Nunito Sans";
+font-style: "SemiBold";
+font-size: 18px;
+line-height: 20px;
+line-height: 81%;
+/* align: "Center"; */
+vertical-align: "Top";
+letter-spacing: 0.22px;
+}
