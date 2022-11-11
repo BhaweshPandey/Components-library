@@ -1,19 +1,46 @@
-.Card{
-    display: flex;
-    justify-content: center;
+.Card{ 
     width: 280px;
     height: 468px;
+    padding: auto;
     background: #F7F8FB;
+    border-radius: 10px;
 }
 
 .Card-container-circle{
+    border: 11.77px solid #D8D8D8;
+    border-radius: 100%;
+    width: 40%;
+    height: 25%;
     display: flex;
-    margin-top: 34px;
-
-}
-
-.circle-inear{
-    display: flex;
+    align-items: center;
     justify-content: center;
     flex-direction: column;
+    margin: auto;
+
 }
+
+.Card-mid-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.Card-mid-2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.Card-bottom{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+
